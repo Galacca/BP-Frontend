@@ -1,0 +1,1 @@
+export const isServerSideRendered = () => typeof window === "undefined"
